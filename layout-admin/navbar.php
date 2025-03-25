@@ -2,7 +2,6 @@
     <div class="form-row col-md-12">
         <div class="col-md-10 row">
             <div class="form-group col-md-2">
-                <!-- <img src="./assets/images/logo-shop.jpg" alt="ảnh"> -->
             </div>
             <div class="form-group col-md-10 row">
                 <div class="form-group col-md-3 active">

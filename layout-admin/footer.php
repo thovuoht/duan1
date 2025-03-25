@@ -5,8 +5,8 @@
                     <ul>
                         <li><p class="title">Thông tin liện hệ:</p>
                         </li>
-                        <li><p>Địa chỉ: Trịnh Văn Bô, Mỹ Đình, Nam Từ Liêm, Hà Nội</p></li>
-                        <li><p>Địa chỉ email 1: vuongmixi123@gmail.com</p></li>
+                        <li><p>Địa chỉ: 13 Trịnh Văn Bô, Mỹ Đình, Nam Từ Liêm, Hà Nội</p></li>
+                        <li><p>Địa chỉ email 1: da1nhom@gmail.com</p></li>
                         <li><p>Số điện thoại: 0965867285</p></li>
                     </ul>
                 </div>
